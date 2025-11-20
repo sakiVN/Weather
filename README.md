@@ -11,21 +11,21 @@ A machine learning-based system designed to classify weather conditions from ima
 - 🔁 Easily extendable to new weather categories or data sources
 
 🧰 Installation
-git clone https://github.com/your-username/weather-classification-ai.git
-cd weather-classification-ai
-pip install -r requirements.txt
-
-
+Directly use in Google Collab.
 
 🗂️ Project Structure
 weather-classification-ai/
 ├── data/               # Raw and processed datasets
-├── models/             # Saved models and checkpoints
-├── notebooks/          # Jupyter notebooks for exploration
-├── src/                # Source code for training and inference
-├── utils/              # Helper functions and utilities
-└── README.md
 
+├── models/             # Saved models and checkpoints
+
+├── notebooks/          # Jupyter notebooks for exploration
+
+├── src/                # Source code for training and inference
+
+├── utils/              # Helper functions and utilities
+
+└── README.md
 
 
 🧪 Usage
