@@ -48,7 +48,7 @@ Note: Results may vary depending on dataset and model configuration.
 
 📚 Dataset
 This project uses weather_classification_data.csv
-You can download it from: [insert link]_https://www.kaggle.com/datasets/nikhil7280/weather-type-classification
+You can download it from: https://www.kaggle.com/datasets/nikhil7280/weather-type-classification
 
 🧠 Model Architecture
 Brief description of your model (e.g., CNN for image classification, LSTM for time-series):
